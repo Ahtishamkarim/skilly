@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf20b455.css",
+    "main.js": "/static/js/main.77ada864.js",
+    "static/media/services.jpg": "/static/media/services.f4d93ab349c1c2ee53bb.jpg",
+    "static/media/about-us.jpg": "/static/media/about-us.991ac03aa839341517cc.jpg",
+    "static/media/offpage.jpg": "/static/media/offpage.acc7292fe548fe706781.jpg",
+    "static/media/pngwing.png": "/static/media/pngwing.1a94bb92056908e1019d.png",
+    "static/media/onpage.jpg": "/static/media/onpage.8504cfe1d0e53781adb0.jpg",
+    "static/media/techniccal.jpg": "/static/media/techniccal.2d5d9af6099370746304.jpg",
+    "static/media/keyword.jpg": "/static/media/keyword.459d5bf3841e85fa71dc.jpg",
+    "static/media/instagram.png": "/static/media/instagram.4991a58875dd2368db45.png",
+    "static/media/logo.png": "/static/media/logo.e40f7fdff4ad69ce53f7.png",
+    "static/media/skype.png": "/static/media/skype.4ec29a9548b25b27ac99.png",
+    "static/media/linkedin.png": "/static/media/linkedin.9ca3295c91fc262fc019.png",
+    "static/media/facebook.png": "/static/media/facebook.a62838376f1449f18fd6.png",
+    "static/media/pngwing.com (3).png": "/static/media/pngwing.com (3).aea4b3aac0ca9e47b5de.png",
+    "static/media/Content-Writing.webp": "/static/media/Content-Writing.7371a4c26fb8e73519d2.webp",
+    "static/media/Graphic-Desigining.webp": "/static/media/Graphic-Desigining.40322121f61766e648d7.webp",
+    "static/media/Web-Development.webp": "/static/media/Web-Development.7442d681b6d43e4a3540.webp",
+    "static/media/Data-Sciences-and-Machine-Learning.webp": "/static/media/Data-Sciences-and-Machine-Learning.ac0fd07f531df9f4b4c6.webp",
+    "static/media/Social-Media-and-Email-Marketing.webp": "/static/media/Social-Media-and-Email-Marketing.a11c918cc37427ee6ebf.webp",
+    "static/media/SEO.webp": "/static/media/SEO.4b9984bd8730f7127901.webp",
+    "static/media/check.jfif": "/static/media/check.e0a5f445f4708237b0fe.jfif",
+    "index.html": "/index.html",
+    "main.bf20b455.css.map": "/static/css/main.bf20b455.css.map",
+    "main.77ada864.js.map": "/static/js/main.77ada864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf20b455.css",
+    "static/js/main.77ada864.js"
+  ]
+}
